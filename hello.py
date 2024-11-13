@@ -1,0 +1,11 @@
+a={4,"hello",5,54}
+b=(4,58,5,54)
+c=[4,58,5,54]
+print(type(a))
+print(type(b))
+print(type(c))
+a="hello"
+a.push(2)
+b
+c
+print(a)
